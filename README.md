@@ -26,20 +26,20 @@ Below are some screenshots of the TicTacToe❌⭕ app:
 
 
 
-### Currency Convert Screen
-![Currency Convert](./DemoImages/CurrancyConvert.png)
+### Cross Win 🏆 Screen
+![Currency Convert](./DemoImages/crosswin.png)
 
 
 
 
-### Negative Currency Error
-![Negative Currency](./DemoImages/NagativeCurrancy.png)
+### Circle Win 🏆 Screen
+![Negative Currency](./DemoImages/circlewin.png)
 
 
 
 
-### Error Check Screen
-![Error Check](./DemoImages/ErrorCheck.png)
+### Draw 🎭 Screen
+![Error Check](./DemoImages/draw.png)
 
 
 
