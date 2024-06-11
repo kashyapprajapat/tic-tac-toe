@@ -53,13 +53,13 @@ If you are a developer and want to fork this repository, follow the steps below:
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
     ```sh
-    git clone https://github.com/your-username/CurrencyConverter.git
+    git clone https://github.com/your-username/tic-tac-toe.git
     ```
     Replace `your-username` with your GitHub username.
 
 3. **Navigate to the Project Directory**:
     ```sh
-    cd CurrencyConverter
+    cd tic-tac-toe
     ```
 
 4. **Install Dependencies**:
